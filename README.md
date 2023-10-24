@@ -1,2 +1,1 @@
-# automated-scheduler
-For my company, I created an automation tool using Excel and python to optimize our scheduling system by the preferences of employees
+I am in the process of converting everything over to a jupyter notebook and commenting on everything
