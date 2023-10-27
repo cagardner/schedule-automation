@@ -1,0 +1,13 @@
+employee_names,date_hired,availability,shift_type,preferred_location
+Alice,2020-01-01,"['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday']",day,Location A
+Bob,2020-02-01,"['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday']",day,Location B
+Caitlin,2020-03-01,"['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday']",day,Location A
+David,2020-04-01,"['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday']",day,Location A
+Eva,2020-05-01,"['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday']",day,Location B
+Frank,2020-06-01,"['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday']",day,Location A
+Grace,2020-07-01,"['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday']",day,Location A
+Hannah,2020-08-01,"['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday']",day,Location B
+Igor,2020-09-01,"['Sunday', 'Tuesday', 'Thursday', 'Saturday']",day,Location A
+Jill,2020-10-01,"['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday']",swing,Location A
+Kyle,2020-11-01,"['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday']",swing,Location A
+Linda,2020-12-01,"['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday']",swing,Location A
