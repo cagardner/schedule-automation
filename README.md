@@ -16,7 +16,7 @@ This system is designed to automate the scheduling of employees based on their w
 7. **Readable Outputs**: The schedules for each location are tabulated and printed, offering clarity on day and swing shifts. A summary also highlights which employees need more shifts to meet the standard weekly criteria.
 
 **Technical Aspects**:
-- Libraries used include pandas for data manipulation, tabulate for visually pleasing data presentation, Twilio for SMS notifications, and datetime for date calculations.
+   - Libraries used include pandas for data manipulation, tabulate for visually pleasing data presentation, Twilio for SMS notifications, and datetime for date calculations.
 
 **Workflow**:
 1. Data is loaded from a CSV or the sample database.
